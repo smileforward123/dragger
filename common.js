@@ -6,3 +6,6 @@ function add(){
       这是修改的公共js文件：
      */
 }
+function remove(id){
+    $('id').remove();
+}
