@@ -3,5 +3,6 @@ function add(){
     console.log("iiii");
     /*
       这是公共部分：
+      这是修改的公共js文件：
      */
 }
