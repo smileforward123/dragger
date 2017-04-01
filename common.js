@@ -12,3 +12,6 @@ function remove(id){
 function intro(){
     console.log(this is new1 branch);
 }
+function create(){
+    console.log("create a new branch new1");
+}
