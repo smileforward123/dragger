@@ -9,3 +9,6 @@ function add(){
 function remove(id){
     $('id').remove();
 }
+function intro(){
+    console.log(this is new1 branch);
+}
